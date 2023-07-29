@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  background-color: black;
+  justify-content: center;
+  align-self: center;
+}
+
+.App:first-child {
+  height: auto;
+  width: 400px;
+  font-size: 34px;
+  color: yellow;
+}
